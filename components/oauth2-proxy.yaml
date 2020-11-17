@@ -73,7 +73,7 @@ spec:
           args:
             - --provider=github
             - --email-domain=*
-            - --github-org=McKessonDev
+            - --github-org=
             - --github-user=cking94
             - --upstream=file:///dev/null
             - --upstream=http://localhost/redirect/
